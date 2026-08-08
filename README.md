@@ -87,10 +87,4 @@ The longitudinal line chart shows a sharp upward trend in clinic registrations f
 3. Scroll through the **Risk Ranking Matrix** to view the worst-to-best states by treatment availability.
 4. Check the top right matrix to see specific facility contact information based on your map selection.
 
-## Live Interactive Dashboard (Recommended)
-
-Static screenshots only capture part of the story — this report is fully interactive. Use **File → Publish to web** in Power BI Service to generate a free, public embed link that anyone can open in a browser with no Power BI license required. Paste your link in place of the placeholder below:
-
-`[View the interactive dashboard →](PASTE_YOUR_PUBLISH_TO_WEB_LINK_HERE)`
-
 *Sources: Centers for Medicare & Medicaid Services (CMS) Provider Characteristics Registry (2026); Centers for Disease Control and Prevention (CDC) / KFF State Overdose Mortality Rates (2024).*
