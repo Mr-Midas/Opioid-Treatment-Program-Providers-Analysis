@@ -85,6 +85,6 @@ The longitudinal line chart shows a sharp upward trend in clinic registrations f
 1. Clone this repository and open `Opioid_Treatment_Program_Providers_Analysis.pbix` in Power BI Desktop.
 2. Use the **State Slicer** at the top to filter the map and KPI cards to a specific region.
 3. Scroll through the **Risk Ranking Matrix** to view the worst-to-best states by treatment availability.
-4. Check the bottom matrix table to see specific facility contact information based on your map selection.
+4. Check the top right matrix to see specific facility contact information based on your map selection.
 
 *Sources: Centers for Medicare & Medicaid Services (CMS) Provider Characteristics Registry (2026); Centers for Disease Control and Prevention (CDC) / KFF State Overdose Mortality Rates (2024).*
